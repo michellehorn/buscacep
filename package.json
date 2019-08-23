@@ -1,5 +1,9 @@
 {
   "name": "chllg-bitseguros",
+  "author": {
+    "name": "Michelle Horn",
+    "email": "michellehorn@live.com"
+  },
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
